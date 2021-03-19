@@ -2,7 +2,7 @@
 视频演示请点击[视频](https://wfpan.github.io/snap.html)
 
 ## &emsp;&emsp;1. SNAP主界面
-<img src="snap01.png" width="495">
+<img src="figs/snap01.png" width="495">
 
 ## &emsp;&emsp;2. 选择File下的Extract software network...
 <img src="snap02.png" width="495">
